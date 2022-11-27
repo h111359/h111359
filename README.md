@@ -3,7 +3,7 @@
 
 ## Short summary
 
-🔭 I’m currently working on creation of creation of my own web footprint
+🔭 I’m currently working on creation of my own web footprint
 
 🌱 I’m currently learning to become Azure Solution Architect
 
