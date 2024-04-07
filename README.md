@@ -1,8 +1,10 @@
 # The Space of Hristo Hristov
 
-## Short summary
+## Summary
 
-## Interests
+[Hristo Hristov Web Page](http://hmhristov.com)
+
+## IT Interests
 
 - Microsoft Azure
 - Python
@@ -12,5 +14,14 @@
 - Django
 - Git
 
+## Leadership and Management
 
+- Leadership
+- Project Management
+- People management
+- Scrum
 
+## Hobbies
+
+- Drawing
+- Guitar
