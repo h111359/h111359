@@ -10,6 +10,7 @@
 - DAX
 - HTML, CSS
 - Django
+- Git
 
 
 
