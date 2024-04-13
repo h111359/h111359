@@ -10,6 +10,8 @@
 
 [CS Video Cources (Fork)](https://github.com/h111359/cs-video-courses)
 
+[Python repo](https://github.com/h111359/hmh-python)
+
 ## IT Interests
 
 - Microsoft Azure
