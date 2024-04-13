@@ -12,6 +12,8 @@
 
 [Python repo](https://github.com/h111359/hmh-python)
 
+[Powershell repo](https://github.com/h111359/hmh-powershell)
+
 ## IT Interests
 
 - Microsoft Azure
