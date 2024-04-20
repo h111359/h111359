@@ -20,6 +20,28 @@ Fabric notes
 [Ask me Anything (AMA) about Microsoft Fabric!](https://www.reddit.com/r/MicrosoftFabric/comments/13vu6v1/ask_me_anything_ama_about_microsoft_fabric/)
 
 
+-----
+    
+  
+5,201 views  Streamed live on Apr 16, 2024  Microsoft Fabric Learn Together
+Full series information: [https://aka.ms/learnlive-microsoft-fa...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUdiNlU4dFBscERIWE9WSDg2alc3TWVuMHRyQXxBQ3Jtc0trVDdsRE5Rc2JSNm5RQUdEMmU2OVlXODY2UlRSbktTbDZJbVZ3ZWoxLWRrUy1BOUE0MkFJaTNJeHZZR2o1VUN3Z0hDOTZnalJSRFdQUGFFLUEzUzhlR0RBdGhuV0JySEM5UXlnXzlfUUJURjJEZk9lTQ&q=https%3A%2F%2Faka.ms%2Flearnlive-microsoft-fabric-wave-2&v=teJ74q92Ag8)
+
+
+
+More info here: [https://aka.ms/learnlive-microsoft-fa...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3NRQk5TUnBtemNUYzd5WFNtRHdsTVczTnBTUXxBQ3Jtc0tuNU51TmRpWUlRSDZKSVh0SjNrQ0t4dUhoNWFRaExRdXZHTkVNRExjQzZzVThBM2pyelRTOTlOS0RIdi1lVk9UY3gtQ3I5M0tZMVFIdWJfQUwtdGh1RWdnMjA1QmVJY3FYR2EtbkdRalM2aTlGcUREUQ&q=https%3A%2F%2Faka.ms%2Flearnlive-microsoft-fabric-wave-2-Ep201&v=teJ74q92Ag8)
+
+
+Follow on Microsoft Learn:
+
+
+
+- Complete the Learn module: https://aka.ms/learnlive-20240220G
+
+- Complete the Learn module (2): https://aka.ms/learnlive-20240220G2
+
+- https://aka.ms/fabric30dtli
+
+
 
 ## Stage
 
