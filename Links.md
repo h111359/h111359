@@ -1,5 +1,7 @@
 ## 20240420
 
+### Video 1: Microsoft Fabric - James Serra
+
 [Microsoft Fabric - James Serra](https://www.youtube.com/watch?v=a6A3jtvB62U)
 
 Resources
@@ -21,7 +23,10 @@ Fabric notes
 
 
 -----
-    
+
+### Video 2: Learn Together: Get started with end-to-end analytics and lakehouses in Microsoft Fabric
+
+https://www.youtube.com/watch?v=teJ74q92Ag8
   
 5,201 views  Streamed live on Apr 16, 2024  Microsoft Fabric Learn Together
 Full series information: [https://aka.ms/learnlive-microsoft-fa...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUdiNlU4dFBscERIWE9WSDg2alc3TWVuMHRyQXxBQ3Jtc0trVDdsRE5Rc2JSNm5RQUdEMmU2OVlXODY2UlRSbktTbDZJbVZ3ZWoxLWRrUy1BOUE0MkFJaTNJeHZZR2o1VUN3Z0hDOTZnalJSRFdQUGFFLUEzUzhlR0RBdGhuV0JySEM5UXlnXzlfUUJURjJEZk9lTQ&q=https%3A%2F%2Faka.ms%2Flearnlive-microsoft-fabric-wave-2&v=teJ74q92Ag8)
