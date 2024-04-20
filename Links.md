@@ -2,6 +2,24 @@
 
 [Microsoft Fabric - James Serra](https://www.youtube.com/watch?v=a6A3jtvB62U)
 
+Resources
+Microsoft Fabric webinar series: https://aka.ms/fabric-webinar-series
+
+New documentation: https://aka.ms/fabric-docs. Check out the tutorials.
+
+[Data Mesh, Data Fabric, Data Lakehouse](https://www.youtube.com/watch?v=BB_Hn46Lmus&ab_channel=AllAboutData) – (video from Toronto Data Professional Community on 2/15/23)
+
+Build videos:
+[Build 2-day demos](https://aka.ms/buildwithanalytics)
+[Microsoft Fabric Synapse data warehouse, Q&A](https://aka.ms/buildwithanalytics)
+
+My [intro blog](https://www.jamesserra.com/archive/2023/05/build-announcement-microsoft-fabric/) on Microsoft Fabric (with helpful links at the bottom)
+
+Fabric notes
+[Advancing Analytics videos](https://www.youtube.com/@AdvancingAnalytics)
+[Ask me Anything (AMA) about Microsoft Fabric!](https://www.reddit.com/r/MicrosoftFabric/comments/13vu6v1/ask_me_anything_ama_about_microsoft_fabric/)
+
+
 
 ## Stage
 
