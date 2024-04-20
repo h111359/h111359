@@ -1,3 +1,8 @@
+## 20240420
+
+[Microsoft Fabric - James Serra](https://www.youtube.com/watch?v=a6A3jtvB62U)
+
+
 ## Stage
 
 [File Name Conventions](https://github.com/bartvandebiezen/file-name-conventions)
