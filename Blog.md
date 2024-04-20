@@ -7,4 +7,8 @@
 - Learned Microsoft Fabric on high level using this video - [Microsoft Fabric - James Serra](https://www.youtube.com/watch?v=a6A3jtvB62U) 
 
 - Learned about CSS positioning from the course [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350588#learning-tools)
+
+- Sort out the GitHub repos
+
+- Complete a course on Git and start using Git commands instead of blind using tools functionality
   
