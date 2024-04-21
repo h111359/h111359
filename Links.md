@@ -3,6 +3,9 @@
 [Telerik Data Engineer Level Up](https://www.telerikacademy.com/upskill/become-data-engineer)
 
 
+[Пита със сирене](https://www.az-jenata.bg/a/107-pitki/14148-pita-sas-sirene)
+
+
 ## 20240420
 
 ### Video 1: Microsoft Fabric - James Serra
