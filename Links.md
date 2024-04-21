@@ -1,3 +1,8 @@
+## 20240421
+
+[Telerik Data Engineer Level Up](https://www.telerikacademy.com/upskill/become-data-engineer)
+
+
 ## 20240420
 
 ### Video 1: Microsoft Fabric - James Serra
