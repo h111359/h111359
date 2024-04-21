@@ -6,6 +6,10 @@
 [Пита със сирене](https://www.az-jenata.bg/a/107-pitki/14148-pita-sas-sirene)
 
 
+[El Jefe Facebook](https://www.facebook.com/profile.php?id=100078853927321)
+
+
+
 ## 20240420
 
 ### Video 1: Microsoft Fabric - James Serra
