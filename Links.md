@@ -1,5 +1,7 @@
 ## 20240430
 
+[План](https://docs.google.com/document/d/1GXez9FUHQU3LBxvjKrQ0EyASXsWnrzr3AurylQs5UUI/edit?usp=drivesdk)
+
 [Vienna](https://drive.google.com/drive/folders/1u5mb53yUkx4GkV8G6Qqaqdwq5yCaZTFD?usp=drive_link)
 [Vienna Travel Guide](<Books/DK Eyewitness Travel Guide Vienna (DK Travel) (Z-Library).pdf>)
 
