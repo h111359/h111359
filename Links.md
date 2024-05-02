@@ -5,6 +5,8 @@
 [Vienna](https://drive.google.com/drive/folders/1u5mb53yUkx4GkV8G6Qqaqdwq5yCaZTFD?usp=drive_link)
 [Vienna Travel Guide](<Books/DK Eyewitness Travel Guide Vienna (DK Travel) (Z-Library).pdf>)
 
+[Карта](https://www.google.com/maps/d/edit?mid=1VfOwK17j_-h92M5hOK2x2zS308yKzEU&usp=sharing)
+
 ## 20240421
 
 [Telerik Data Engineer Level Up](https://www.telerikacademy.com/upskill/become-data-engineer)
