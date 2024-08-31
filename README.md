@@ -20,7 +20,11 @@
 
 [hmh-powershell - Powershell repo](https://github.com/h111359/hmh-powershell)
 
+[hmh-html-css-js - HTML, CSS JavaScript repo](https://github.com/h111359/hmh-html-css-js)
+
 [hmh-training-curriculum](https://github.com/h111359/hmh-training-curriculum)
+
+[hmh-cloud](https://github.com/h111359/hmh-cloud)
 
 ## IT Interests
 
