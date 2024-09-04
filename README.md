@@ -14,17 +14,17 @@
 
 [hmh-git - Git and GitHub knowledge](https://github.com/h111359/hmh-git)
 
-[cs-video-courses - CS Video Cources (Fork)](https://github.com/h111359/cs-video-courses)
 
 [hmh-python - Python repo](https://github.com/h111359/hmh-python)
 
-[hmh-powershell - Powershell repo](https://github.com/h111359/hmh-powershell)
+[hmh-sql - SQL and DB repo](https://github.com/h111359/hmh-sql)
 
-[hmh-html-css-js - HTML, CSS JavaScript repo](https://github.com/h111359/hmh-html-css-js)
+[hmh-powershell - Powershell repo](https://github.com/h111359/hmh-powershell)
 
 [hmh-training-curriculum](https://github.com/h111359/hmh-training-curriculum)
 
-[hmh-cloud](https://github.com/h111359/hmh-cloud)
+[cs-video-courses - CS Video Cources (Fork)](https://github.com/h111359/cs-video-courses)
+
 
 ## IT Interests
 
